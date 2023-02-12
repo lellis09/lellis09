@@ -4,7 +4,7 @@
 
 
 
-<img src="https://media.giphy.com/media/nK0f9yrH7O9NRgggsN/giphy.gif" width="75%" height="75%"/>
+<img src="https://media.giphy.com/media/dYFIyqkNGVLLmC7DPu/giphy.gif" width="75%" />
 
 
 <h3 align="left">About Me </h3>
