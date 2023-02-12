@@ -4,11 +4,11 @@
 
 
 
+![GitHub Banner (1280 × 640 px)](https://user-images.githubusercontent.com/99147857/218326760-ac41f1c3-d5eb-4e60-b136-84842a87c69d.gif)
 
 
 
 
-https://user-images.githubusercontent.com/99147857/218325766-15125471-f968-4e08-ad14-603fb2bfe744.mp4
 
 
 
