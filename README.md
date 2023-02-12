@@ -23,11 +23,17 @@ Outside of coding I enjoy:
 
 <h3 align="left">GitHub Stats  </h3>
 
+![](https://komarev.com/ghpvc/?username=lellis09&color=01CBC7)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lellis09&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lellis09&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lellis09&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me :wave:</h3>
 
 <a href="https://lishiaellis.netlify.app/" target="blank">![Type 2](https://img.shields.io/static/v1?label=|&message=Website&color=01CBC7&style=for-the-badge&logo=website&logo-color=white)</a> <a href="https://www.linkedin.com/in/lishia-ellis/" target="blank">![Type 2](https://img.shields.io/static/v1?label=|&message=linkedin&color=01CBC7&style=for-the-badge&logo=linkedin&logo-color=white)</a> <a href="https://twitter.com/TealTernary" target="blank">![Type 2](https://img.shields.io/static/v1?label=|&message=Twitter&color=01CBC7&style=for-the-badge&logo=Twitter&logo-color=white)</a> 
+
+
 
 <h3 align="left">Languages and Tools :toolbox:</h3>
 
