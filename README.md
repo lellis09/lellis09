@@ -9,7 +9,7 @@
 
 <h3 align="left">About Me </h3>
 <p>Hey there, I'm a full stack developer! </p>
-<p>I'm a curious mind who's always interested in learning what makes things tick. Programming allows me to combine several of my interests which include learning, problem solving and creativity to create awesome full stack web applications. </p>
+<p>I'm a curious mind who's always interested in learning new things. Programming allows me to combine several of my interests which include learning, problem solving and creativity to create awesome full stack web applications. </p>
 <p>I'm looking to connect with with interesting people and collaborate on small projects. </p>
 
 Outside of coding I enjoy:
